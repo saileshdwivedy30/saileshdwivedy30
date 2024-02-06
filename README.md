@@ -2,8 +2,8 @@
 - 👀 I’m interested in the field of machine learning and natural language processing.
 - 🌱 I’m currently a Master's in Computer Science student at University of Colorado Boulder.
 - 😄 I'm currently learning Deep Learning and Computer Vision.
-- 🌻 I’m looking for internships in the Summer of 2024.
-- 📫 How to reach me : Email - [sailesh.dwivedy@colorado.edu](https://outlook.office.com/mail/inbox/id/AAQkAGU5YjYxNmViLTgzYWQtNDdmOS1hZTVmLTg3NDVlZDYyM2RjMAAQAL68XOemn55EhTbGGQiI%2F0I%3D)
+- 🌻 I’m looking for data science and data analytics internships for the Summer of 2024.
+- 📫 How to reach me : Email - [sailesh.dwivedy@colorado.edu](mailto:sailesh.dwivedy@colorado.edu)
 - ⚡ LinkedIn: https://www.linkedin.com/in/saileshdwivedy/
 
 <!---
