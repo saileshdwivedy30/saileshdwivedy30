@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sailesh Dwivedy. I have 2.5 years of experience as a Data Scientist 
+- 👋 Hi, I’m Sailesh Dwivedy. I have 2.5 years of experience as a Data Science Team Lead.
 - 👀 I’m interested in the field of machine learning and natural language processing.
 - 🌱 I’m currently a Master's in Computer Science student at University of Colorado Boulder.
 - 😄 I'm currently learning Deep Learning and Computer Vision.
