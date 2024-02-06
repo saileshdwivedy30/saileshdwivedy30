@@ -3,7 +3,7 @@
 - 🌱 I’m currently a Master's in Computer Science student at University of Colorado Boulder.
 - 😄 I'm currently learning Deep Learning and Computer Vision.
 - 🌻 I’m looking for data science and data analytics internships for the Summer of 2024.
-- 📫 How to reach me : Email - [sailesh.dwivedy@colorado.edu](mailto:sailesh.dwivedy@colorado.edu)
+- 📫 How to reach me : Email - [sailesh.dwivedy@colorado.edu](sailesh.dwivedy@colorado.edu)
 - ⚡ LinkedIn: https://www.linkedin.com/in/saileshdwivedy/
 
 <!---
