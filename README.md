@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Sailesh Dwivedy. I have 2.5 years of experience as a Data Science Team Lead.
+- 👋 Hi, I’m Sailesh Dwivedy. I have 3 years of experience as a Data Scientist.
 - 👀 I’m interested in the field of machine learning and natural language processing.
 - 🌱 I’m currently a Master's in Computer Science student at University of Colorado Boulder.
-- 😄 I'm currently learning Deep Learning and Computer Vision.
-- 🌻 I’m looking for data science and data analytics internships for the Summer of 2024.
+- 😄 I'm currently working as a Summer Research associate at the Image and Video Computing Group under guidance of Dr Danna Gurari.
+- 🌻 I’m looking for full time data science and data analytics roles starting May 2025.
 - 📫 How to reach me : Email - [sailesh.dwivedy@colorado.edu](sailesh.dwivedy@colorado.edu)
 - ⚡ LinkedIn: https://www.linkedin.com/in/saileshdwivedy/
 
