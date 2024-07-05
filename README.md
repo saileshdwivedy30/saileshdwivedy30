@@ -19,8 +19,8 @@ Led a team of 10, deploying data science solutions that optimized processes for 
 
 #### Languages: Python, SQL, Java
 #### Frameworks & Libraries:
-####         Machine Learning & Deep Learning: TensorFlow, PyTorch, Scikit-learn
-####         Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Tableau
+#### 1. Machine Learning & Deep Learning: TensorFlow, PyTorch, Scikit-learn
+#### 2. Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Tableau
 #### Technical Skills: Data Analytics, Machine Learning, NLP (Natural Language Processing), Computer Vision, Deep Learning
 #### Development Tools: PyCharm, Jupyter, Git
 #### Database & Project Management Tools: MySQL, Jira
