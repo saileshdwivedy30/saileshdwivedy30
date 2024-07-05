@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Sailesh Dwivedy!
-I'm a Master’s student in Computer Science at the University of Colorado Boulder, specializing in Data Science, Machine Learning, and developing scalable AI solutions. With 3 years of work experience as a Data Scientist, I am actively engaged in advanced studies and projects in Machine Learning, NLP, Computer Vision, Deep Learning and Generative AI.
+I'm a Master’s student in Computer Science at the University of Colorado Boulder, specializing in Data Science, Machine Learning, and developing scalable AI solutions. 
+
+With 3 years of work experience as a Data Scientist, I am actively engaged in advanced studies and projects in Machine Learning, NLP, Computer Vision, Deep Learning and Generative AI.
 # 🌟 I'm Seeking Full-Time Opportunities:
 
 I am actively seeking full-time roles in Data Science, Data Analytics, Machine Learning, Deep Learning, Computer Vision, and Generative AI, starting May 2025. My goal is to leverage my extensive professional background and hands-on experience to contribute to innovative and impactful projects in these fields.
