@@ -5,7 +5,7 @@ I'm a Master’s student in Computer Science at the University of Colorado Bould
 I am actively seeking full-time roles in Data Science, Data Analytics, Machine Learning, Deep Learning, Computer Vision, and Generative AI, starting May 2025. My goal is to leverage my extensive professional background and hands-on experience to contribute to innovative and impactful projects in these fields.
 # 👨‍💻 Professional Experience:
 
-Summer Research Associate, Image and Video Computing Lab, University of Colorado Boulder (Current)
+## Summer Research Associate, Image and Video Computing Lab, University of Colorado Boulder (Current)
 Conducting research under Dr. Danna Gurari, focusing on leveraging Knowledge Distillation to compress complex AI models into more efficient versions without losing accuracy. My work focuses on making scalable AI systems, making them both powerful and resource-efficient.
 Research Associate, Kalinga Institute of Industrial Technology (Feb 2023 - Jul 2023)
 Focused on imbalance classification techniques to enhance model performance on skewed data sets.
