@@ -32,5 +32,5 @@ Dynamic Bus Allocation System: Developed during the Smart India Hackathon 2019, 
 Winner of Smart India Hackathon 2019
 Best Performer, HighRadius for Q4 2020 & Q2 2021
 
-I am always open to collaborating on innovative projects and ideas that leverage data to solve real-world problems. Feel free to connect with me on [LinkedIn]([url](https://www.linkedin.com/in/saileshdwivedy/)) or reach out via [email](sailesh.dwivedy@colorado.edu).
+I am always open to collaborating on innovative projects and ideas that leverage data to solve real-world problems. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/saileshdwivedy/) or reach out via [email](sailesh.dwivedy@colorado.edu).
 
