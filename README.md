@@ -1,22 +1,22 @@
-# 👋 Hi, I'm Sailesh Dwivedy!
-I'm a Master’s student (Reserach Track) in Computer Science at the University of Colorado Boulder, specializing in Data Science, Machine Learning, and developing scalable AI solutions. 
+# <h1 align="center"> Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> I'm Sailesh Dwivedy!</h1>
+I'm a Master’s student in Computer Science (Research Track) at the University of Colorado Boulder with 4.0 GPA, specializing in Data Science, NLP, and developing scalable AI solutions. 
 
 With 3 years of work experience as a Data Scientist, I am actively engaged in advanced studies and projects in Machine Learning, NLP, Computer Vision, Deep Learning and Generative AI.
 # 🌟 I'm Seeking Full-Time Opportunities:
 
-I am actively seeking full-time roles in Data Science, Data Analytics, Machine Learning, Deep Learning, Computer Vision, and Generative AI, starting May 2025. My goal is to leverage my extensive professional background and hands-on experience to contribute to innovative and impactful projects in these fields.
+I am actively seeking full-time roles in Data Science, Data Analytics, Machine Learning, Deep Learning, Computer Vision, and Generative AI, starting May 2025. 
+
+My goal is to leverage my extensive professional background and hands-on experience to contribute to innovative and impactful projects in these fields.
+
 # 👨‍💻 Professional Experience:
 
-### 1. Summer Research Associate, Image and Video Computing Lab, University of Colorado Boulder (Current)
-Conducting research under Dr. Danna Gurari, focusing on leveraging Knowledge Distillation to compress complex AI models into more efficient versions without losing accuracy. My work focuses on making scalable AI systems, making them both powerful and resource-efficient.
-### 2. Research Associate, Kalinga Institute of Industrial Technology (Feb 2023 - Jul 2023)
+### **Summer Research Associate, Image and Video Computing Lab, University of Colorado Boulder (Current)**
+Conducting research under Dr. Danna Gurari, focusing on leveraging Knowledge Distillation to compress complex AI models into more efficient versions without losing accuracy.
+### **Research Associate, Kalinga Institute of Industrial Technology (Feb 2023 - Jul 2023)**
 Focused on imbalance classification techniques to enhance model performance on skewed data sets.
-### 3. Associate Software Engineer (Data Science Team Lead), Highradius Technologies (Sep 2020 - Feb 2023)
-Led a team of 10, deploying data science solutions that optimized processes for Fortune 500 companies, including predictive models for financial operations.
-# 🎓 Educational Background:
+### **Data Scientist & Team Lead, Highradius Technologies (Sep 2020 - Feb 2023)**
+Designed and implemented complete data science pipelines for mutiple fintech products that optimized processes for Fortune 500 companies, using predictive models for financial operations.
 
-#### Master of Science in Computer Science, University of Colorado Boulder (Expected May 2025)
-#### Bachelor of Technology in Computer Science & Engineering, Kalinga Institute of Industrial Technology (Graduated May 2020)
 # 🔍 Key Skills:
 
 #### Languages: Python, SQL, Java
@@ -26,9 +26,11 @@ Led a team of 10, deploying data science solutions that optimized processes for 
 #### Technical Skills: Data Analytics, Machine Learning, NLP (Natural Language Processing), Computer Vision, Deep Learning
 #### Development Tools: PyCharm, Jupyter, Git
 #### Database & Project Management Tools: MySQL, Jira
+
 # 🚀 Projects Highlight:
 
 Dynamic Bus Allocation System: Developed during the Smart India Hackathon 2019, this project addressed public transport inefficiencies using a custom algorithm to dynamically allocate buses, significantly reducing waiting times at bus stops.
+
 # 🏆 Achievements:
 
 1. Winner of Smart India Hackathon 2019
