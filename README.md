@@ -10,7 +10,7 @@ My goal is to leverage my extensive professional background and hands-on experie
 
 # 👨‍💻 Professional Experience:
 
-### **Summer Research Associate, Image and Video Computing Lab, University of Colorado Boulder (Current)**
+### **Summer Research Intern, Image and Video Computing Lab, University of Colorado Boulder (Current)**
 Conducting research under Dr. Danna Gurari and PhD student Nicholas Cooper, focusing on leveraging Knowledge Distillation to compress complex large AI models into smaller and more efficient versions without losing accuracy.
 ### **Research Associate, Kalinga Institute of Industrial Technology (Feb 2023 - Jul 2023)**
 Focused on imbalance classification techniques to enhance model performance on skewed data sets.
