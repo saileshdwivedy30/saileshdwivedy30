@@ -15,7 +15,7 @@ Conducting research under Dr. Danna Gurari and PhD student Nicholas Cooper, focu
 ### **Research Associate, Kalinga Institute of Industrial Technology (Feb 2023 - Jul 2023)**
 Focused on imbalance classification techniques to enhance model performance on skewed data sets.
 ### **Data Scientist & Team Lead, Highradius Technologies (Sep 2020 - Feb 2023)**
-Designed and implemented complete data science pipelines for mutiple fintech products that optimized processes for Fortune 500 companies, using predictive models for financial operations.
+Designed and implemented complete data science pipelines for mutiple fintech products like cash forecasting, fraud detetcion and payment date prediction that optimized processes for Fortune 500 companies, using predictive models for financial operations.
 
 # 🔍 Key Skills:
 
