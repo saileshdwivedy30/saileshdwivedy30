@@ -27,9 +27,6 @@ Designed and implemented complete data science pipelines for mutiple fintech pro
 #### Development Tools: PyCharm, Jupyter, Git
 #### Database & Project Management Tools: MySQL, Jira
 
-# 🚀 Projects Highlight:
-
-Dynamic Bus Allocation System: Developed during the Smart India Hackathon 2019, this project addressed public transport inefficiencies using a custom algorithm to dynamically allocate buses, significantly reducing waiting times at bus stops.
 
 # 🏆 Achievements:
 
