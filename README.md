@@ -53,7 +53,7 @@ My goal is to leverage my extensive professional background and hands-on experie
 
 
 🚍 **Robus-Dynamic Bus Routing System**  
-*[Winner] - Smart India Hackathon (Nation Level Hackathon In India) [FinTech]* 
+*[Winner] - Smart India Hackathon (Nation Level Hackathon In India)* 
   - Designed an **adaptive bus routing algorithm** based on demand and supply**.  
   - Utilized **YOLO object detection** to **quantify demand at bus stops and inside buses** for **dynamic route allocation**.
   - **Tech Stack**: **Python, YOLO, OpenCV, Scikit-Learn, Algorithm**  
