@@ -32,6 +32,25 @@ My goal is to leverage my extensive professional background and hands-on experie
 ---
 ## 🛠  Projects
 
+📈 **StockIntel AI - AI-Powered Stock Analysis Agent**  
+  - Developed an **AI-driven stock analysis agent** that provides **real-time financial insights** based on company name or stock ticker.  
+  - Integrated **OpenAI GPT-4o** for **AI-powered stock rating**, analyzing technical indicators and market trends.  
+  - Automated **stock data fetching** using **Yahoo Finance** and **symbol lookup** via **DuckDuckGo Search**.  
+  - Built an **interactive UI** with **Streamlit**, enabling users to explore financial metrics dynamically.  
+  - **Tech Stack**: **Python, Pydantic AI, Streamlit, Yahoo Finance (yfinance), DuckDuckGo Search, OpenAI GPT-4o.**  
+  - 🎥 **Demo Video:** [Watch Here](https://www.youtube.com/watch?v=oYHgGF4P0tQ)  
+  - 🔗 **GitHub Repo:** [StockIntel AI](https://github.com/saileshdwivedy30/stockintel-ai)
+
+📨 **AskMyEmail - DeepSeek AI-Powered Email RAG Chatbot**  
+  - Developed an **AI-driven email assistant** that retrieves, analyzes, and chats with emails using **Retrieval-Augmented Generation (RAG)**.  
+  - Integrated **Gmail API, LangChain, and ChromaDB** to enable **semantic email retrieval** based on natural language queries.  
+  - Leveraged **DeepSeek R1 14B (via Ollama API)** to generate **intelligent, context-aware responses**.  
+  - Ensured **email privacy** by defaulting to **promotional emails only**, with the option to customize retrieval settings.  
+  - Built an **interactive chat interface** using **Streamlit** for a seamless user experience.  
+  - **Tech Stack**: **Python, Streamlit, LangChain, ChromaDB, Gmail API, DeepSeek R1 14B, BeautifulSoup.**  
+  - 🎥 **Demo Video:** [Watch Here](#)  
+  - 🔗 **GitHub Repo:** [AskMyEmail](https://github.com/saileshdwivedy30/Ask-My-Mail)
+
 ☁️ **Multi-Cloud AI-Powered eCommerce Platform**  
   - Designed and developed an **AI-driven eCommerce platform** leveraging **AWS, Google Cloud, and Azure**.  
   - Implemented **Infrastructure as Code (IaC)** using **Terraform** to provision and automate cloud resources.  
@@ -40,6 +59,34 @@ My goal is to leverage my extensive professional background and hands-on experie
   - Implemented **CI/CD pipelines** using **AWS CodePipeline & AWS CodeBuild** to automate deployments.  
   - **Tech Stack**: **Python, Docker, Terraform, Kubernetes, AWS, GCP, Azure, FastAPI, OpenAI APIs, Amazon Bedrock, Google BigQuery, Azure Sentiment Classification.**  
   - 🔗 **GitHub Repo:** [CloudMart - AI Multi-Cloud](https://github.com/saileshdwivedy30/Cloudmart)
+
+📊 **Auto Log Insights - AI-Powered Log Analysis & Error Detection**  
+  - Developed an **AI-enhanced log analysis system** built on the **ELK (Elasticsearch-Logstash-Kibana) stack**.  
+  - Integrated **AI-driven insights** using **LLaMA 3-8B (via Groq Inference API)** to **analyze logs and detect common development errors**.  
+  - Implemented **asynchronous job processing** via **Redis message queues** for efficient log ingestion and analysis.  
+  - Designed a **custom Kibana dashboard** to provide **real-time log monitoring and insights**.  
+  - Enabled **secure user authentication** with **JWT tokens**, ensuring restricted data access.  
+  - **Tech Stack**: **Python, Flask, Elasticsearch, Logstash, Kibana, LLaMA 3-8B, Groq Inference API, Redis, AWS S3.**  
+  - 🎥 **Demo Video:** [Watch Here](https://www.youtube.com/watch?v=aOD9OG1qHYc)  
+  - 🔗 **GitHub Repo:** [Auto Log Insights](https://github.com/cu-csci-4253-datacenter-fall-2024/finalproject-final-project-team-15)  
+
+🖼 **ImageSense AI - Image Search Quality Optimization**  
+  - Developed an **AI-powered image search engine** that enhances search relevance using **advanced LLMs** and **CLIP-based image embeddings**.  
+  - Implemented **query expansion** using **LLaMA 3.2 3B (via Ollama API)** to refine user queries and improve search accuracy.  
+  - Leveraged **FAISS for efficient similarity search**, ensuring fast and accurate image retrieval.  
+  - Designed an **interactive web interface** with **Streamlit**, allowing users to search images via **text queries**.  
+  - **Tech Stack**: Python, OpenAI CLIP, FAISS, LLaMA (via Ollama API), Streamlit, PIL (Pillow).  
+  - 🎥 **Live Demo:** [Watch Here](https://www.youtube.com/watch?v=5Yf5CNzVpbg)  
+  - 🔗 **GitHub Repo:** [ImageSense AI](https://github.com/saileshdwivedy30/ImageSense-AI)  
+
+💰 **IntelliAgents Financial Analyst - Multi-Agent AI for Financial Insights**  
+- Developed a **multi-agent AI framework** to analyze **financial data and web insights** using **specialized AI agents**.  
+- Integrated **Web Search Agent** (DuckDuckGo) for real-time financial news and **Finance AI Agent** (YFinanceTools) for stock analysis.  
+- Utilized **Groq LLaMA-3.3-70B** to process financial data, stock fundamentals, analyst recommendations, and company news.  
+- Implemented **multi-agent collaboration**, where agents interact to provide **comprehensive stock analysis and financial reports**.  
+- Ensured **structured and readable outputs** using **Markdown tables and formatted insights**.  
+- **Tech Stack**: **Python, Groq LLaMA-3.3-70B, DuckDuckGo API, YFinanceTools, Phidata.** 
+- 🔗 **GitHub Repo:** [IntelliAgents Financial Analyst](https://github.com/saileshdwivedy30/intelliagents-financial-analyst)  
 
 
 🎵 **Spotify 2023 Streaming Analysis**  
@@ -51,14 +98,12 @@ My goal is to leverage my extensive professional background and hands-on experie
 - 🎥 **Demo Video:** [Watch Here](https://drive.google.com/file/d/13TnESRwxw4Eew5h-zCw-aM1MxVO8Ncld/view?usp=sharing)  
 - 📊 **Dataset:** [Spotify Top Songs 2023 - Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data)  
 
-
 🚍 **Robus-Dynamic Bus Routing System**  
 *[Winner] - Smart India Hackathon (Nation Level Hackathon In India)* 
   - Designed an **adaptive bus routing algorithm** based on demand and supply**.  
   - Utilized **YOLO object detection** to **quantify demand at bus stops and inside buses** for **dynamic route allocation**.
   - **Tech Stack**: **Python, YOLO, OpenCV, Scikit-Learn, Algorithm**  
   - 🔗 **GitHub Repo:** [Robus-Dynamic Bus Routing System](https://github.com/saileshdwivedy30/Robus-Smart_India_Hackathon)  
-    
   
 🚦 **Dynamic Traffic Management System**  
 - Developed an **algorithmic solution for smart traffic management** in urban cities, optimize signal timing.
