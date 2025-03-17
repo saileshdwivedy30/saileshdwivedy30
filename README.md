@@ -30,6 +30,30 @@ My goal is to leverage my extensive professional background and hands-on experie
 - Built predictive models that optimized **financial operations** for **Fortune 500 companies like Nestle, Kellogs, Kraft Heinz, Clorox, Uber, etc**.  
 
 ---
+## 🛠  Projects
+
+☁️ **Multi-Cloud AI-Powered eCommerce Platform**  
+  - Designed and developed an **AI-driven eCommerce platform** leveraging **AWS, Google Cloud, and Azure**.  
+  - Implemented **Infrastructure as Code (IaC)** using **Terraform** to provision and automate cloud resources.  
+  - Orchestrated **Dockerized microservices** using **Kubernetes (EKS)** for seamless deployment.  
+  - Integrated **AI-powered product recommendations** via **Amazon Bedrock** and customer support via **OpenAI GPT-4o**.  
+  - Implemented **CI/CD pipelines** using **AWS CodePipeline & AWS CodeBuild** to automate deployments.  
+  - **Tech Stack**: **Python, Docker, Terraform, Kubernetes, AWS, GCP, Azure, FastAPI, OpenAI APIs, Amazon Bedrock, Google BigQuery, Azure Sentiment Classification.**  
+  - 🔗 **GitHub Repo:** [CloudMart - AI Multi-Cloud](https://github.com/saileshdwivedy30/Cloudmart)  
+
+🚍 **Robus-Dynamic Bus Routing System**  
+*[Winner] - Smart India Hackathon (Nation Level Hackathon In India) [FinTech]* 
+  - Designed an **adaptive bus routing algorithm** based on demand and supply**.  
+  - Utilized **YOLO object detection** to **quantify demand at bus stops and inside buses** for **dynamic route allocation**.
+  - **Tech Stack**: **Python, YOLO, OpenCV, Scikit-Learn, Algorithm**  
+  - 🔗 **GitHub Repo:** [Robus-Dynamic Bus Routing System](https://github.com/saileshdwivedy30/Robus-Smart_India_Hackathon)  
+    
+  
+🚦 **Dynamic Traffic Management System**  
+- Developed an **algorithmic solution for smart traffic management** in urban cities, optimize signal timing.
+  - **Tech Stack**: **Algorithm**
+
+---
 
 ## 🔍 Technical Skills
 
