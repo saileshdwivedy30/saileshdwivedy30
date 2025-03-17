@@ -71,7 +71,7 @@ My goal is to leverage my extensive professional background and hands-on experie
   - 🔗 **GitHub Repo:** [Auto Log Insights](https://github.com/cu-csci-4253-datacenter-fall-2024/finalproject-final-project-team-15)  
 
 🖼 **ImageSense AI - Image Search Quality Optimization**  
-  - Developed an **AI-powered image search engine** that enhances search relevance using **advanced LLMs** and **CLIP-based image embeddings**.  
+  - Developed an **AI-powered image search engine** that enhances search relevance using **advanced LLMs** and **CLIP-based image embeddings**. 
   - Implemented **query expansion** using **LLaMA 3.2 3B (via Ollama API)** to refine user queries and improve search accuracy.  
   - Leveraged **FAISS for efficient similarity search**, ensuring fast and accurate image retrieval.  
   - Designed an **interactive web interface** with **Streamlit**, allowing users to search images via **text queries**.  
@@ -80,29 +80,31 @@ My goal is to leverage my extensive professional background and hands-on experie
   - 🔗 **GitHub Repo:** [ImageSense AI](https://github.com/saileshdwivedy30/ImageSense-AI)  
 
 💰 **IntelliAgents Financial Analyst - Multi-Agent AI for Financial Insights**
-*Tech Stack**: **Python, Groq LLaMA-3.3-70B, DuckDuckGo API, YFinanceTools, Phidata.*** 
 - Developed a **multi-agent AI framework** to analyze **financial data and web insights** using **specialized AI agents**.  
 - Integrated **Web Search Agent** (DuckDuckGo) for real-time financial news and **Finance AI Agent** (YFinanceTools) for stock analysis.  
 - Utilized **Groq LLaMA-3.3-70B** to process financial data, stock fundamentals, analyst recommendations, and company news.  
 - Implemented **multi-agent collaboration**, where agents interact to provide **comprehensive stock analysis and financial reports**.  
-- Ensured **structured and readable outputs** using **Markdown tables and formatted insights**.  
+- Ensured **structured and readable outputs** using **Markdown tables and formatted insights**.
+- **Tech Stack**: **Python, Groq LLaMA-3.3-70B, DuckDuckGo API, YFinanceTools, Phidata.**  
 - 🔗 **GitHub Repo:** [IntelliAgents Financial Analyst](https://github.com/saileshdwivedy30/intelliagents-financial-analyst)  
 
 
 🎵 **Spotify 2023 Streaming Analysis**  
-- *Tech Stack: **Python, Flask, Pandas, NumPy, Plotly, Seaborn, Preswald, GitHub.***
+
 - Developed an **interactive data visualization platform** to explore **top streamed artists, songs, and industry trends** from 2023.  
 - Analyzed **streaming behavior, song characteristics, playlist impact, and seasonal trends** to uncover patterns in music consumption.  
-- Integrated **real-time filtering and interactive visualizations** for deeper insights into streaming analytics.  
+- Integrated **real-time filtering and interactive visualizations** for deeper insights into streaming analytics.
+- **Tech Stack**: **Python, Flask, Pandas, NumPy, Plotly, Seaborn, Preswald, GitHub.**  
 - 🔗 **Live App:** [Spotify 2023 Analysis](https://my-example-project-719255-kngkr5dp-ndjz2ws6la-ue.a.run.app/)  
 - 🎥 **Demo Video:** [Watch Here](https://drive.google.com/file/d/13TnESRwxw4Eew5h-zCw-aM1MxVO8Ncld/view?usp=sharing)  
 - 📊 **Dataset:** [Spotify Top Songs 2023 - Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data)  
 
 🚍 **Robus-Dynamic Bus Routing System**  
 *[Winner] - Smart India Hackathon (Nation Level Hackathon In India)*
-*Tech Stack: **Python, YOLO, OpenCV, Scikit-Learn, Algorithm*
+
   - Designed an **adaptive bus routing algorithm** based on demand and supply**.  
-  - Utilized **YOLO object detection** to **quantify demand at bus stops and inside buses** for **dynamic route allocation** 
+  - Utilized **YOLO object detection** to **quantify demand at bus stops and inside buses** for **dynamic route allocation**
+  - **Tech Stack**: **Python, YOLO, OpenCV, Scikit-Learn, Algorithm** 
   - 🔗 **GitHub Repo:** [Robus-Dynamic Bus Routing System](https://github.com/saileshdwivedy30/Robus-Smart_India_Hackathon)  
   
 🚦 **Dynamic Traffic Management System**  
