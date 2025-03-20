@@ -193,6 +193,7 @@ My goal is to leverage my extensive professional background and hands-on experie
 - ☁️ **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional** – *Oracle* *(Aug 2024)*
 - 📜 **MATLAB Onramp** – *MathWorks* ([Certificate Link](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=e026d16c-3c16-4ef5-b978-350e30dc1017&)) *(Mar 2025)*  
 
+---
 
 ## 🏆 Achievements
 - **Winner**: Smart India Hackathon 2019 at National Level Hackathon organized by MHRD, Govt. of India.
