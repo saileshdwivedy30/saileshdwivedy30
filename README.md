@@ -188,7 +188,7 @@ My goal is to leverage my extensive professional background and hands-on experie
 
 ---
 
-## 🏆 Certifications
+## Certifications
 - 📜 **Generative AI with Large Language Models** – *DeepLearning.AI & Amazon Web Services* ([Certificate Link](https://coursera.org/share/b6b2474ea78d6420db9f37e9b701348d)) *(September 2024)*
 - ☁️ **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional** – *Oracle* *(Aug 2024)*
 - 📜 **MATLAB Onramp** – *MathWorks* ([Certificate Link](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=e026d16c-3c16-4ef5-b978-350e30dc1017&)) *(Mar 2025)*  
