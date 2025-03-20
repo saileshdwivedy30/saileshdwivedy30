@@ -1,6 +1,6 @@
 # <h1 align="center"> Hi, I'm Sailesh Dwivedy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1> 
 
-I am a **Master’s student in Computer Science (Research Track) at the University of Colorado (GPA: 4.0)**, specializing in **Data Science, Machine Learning, NLP, and Generative AI**. 
+I am a **Master’s student in Computer Science (Research Track) at the University of Colorado Boulder (GPA: 4.0)**, specializing in **Data Science, Machine Learning, NLP, and Generative AI**. 
 
 With **4+ years of industry experience as a Data Scientist**, I am actively engaged in advanced studies and projects, and passionate about **building scalable AI solutions** that drive impactful real-world applications.  
 
