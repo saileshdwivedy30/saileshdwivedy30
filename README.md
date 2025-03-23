@@ -215,4 +215,4 @@ My goal is to leverage my extensive professional background and hands-on experie
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saileshdwivedy)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sailesh.dwivedy@colorado.edu)  
 
-Thank you for visiting my profile! 🚀
+
