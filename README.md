@@ -20,7 +20,7 @@ My goal is to leverage my extensive professional background and hands-on experie
 
 ---
 
-## 💼 Professional Experience
+
 
 ### **Summer Research Assistant, Image and Video Computing Lab**  
 *University of Colorado Boulder (Nov 2024 - Present)*  
