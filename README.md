@@ -12,7 +12,7 @@ With **4+ years of industry experience as a Data Scientist**, I am actively enga
 
 ---
 
-# 🌟 I'm Seeking Full-Time :
+# 🌟 I'm Seeking Full-Time Opportunities:
 
 I am actively seeking full-time roles in Data Science, Data Analytics, Machine Learning, Deep Learning, Computer Vision, and Generative AI, starting May 2025. 
 
