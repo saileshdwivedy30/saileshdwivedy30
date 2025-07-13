@@ -6,9 +6,17 @@ Visit my webpage: - [Link to my website](https://saileshdwivedy30.github.io/)
 
 ---
 
-I am a **Master’s student in Computer Science (Research Track) at the University of Colorado Boulder (GPA: 4.0)**, specializing in **Data Science, Machine Learning, NLP, and Generative AI**. 
+AI/ML Engineer with 5 years of experience delivering production ready GenAI, NLP, and machine learning systems for Fortune 500 clients. I specialize in LLM fine-tuning (QLoRA, LoRA, PEFT), Retrieval-Augmented Generation (RAG), AI agents, and multimodal systems. 
 
-With **4+ years of industry experience as a Data Scientist**, I am actively engaged in advanced studies and projects, and passionate about **building scalable AI solutions** that drive impactful real-world applications.  
+• Currently at NeuroSpring, I am building on-device healthcare AI systems to detect speech abnormalities using PyTorch and Hugging Face, with deployment on Azure. 
+• At Highradius, I led ML initiatives in the fintech domain, developing solutions like a GenAI-powered Smart Email Composer, improving fraud risk prediction models, and payment forecasting systems, improving dollar amount recovery by 12% for Fortune 500 clients like Nestle, Uber, Clorox and Kraft Heinz.
+• As a Machine Leanring Research Assistant, I developed efficient knowledge distillation techniques for computer vision achieving 80% training efficiency gains(submitted to NeurIPS 2025).
+
+Skilled in Python, SQL, PyTorch, Hugging Face, LangChain, LlamaIndex, Transformers, LLMs (LLaMA, GPT), LoRA, RAG, Agentic AI, Prompt Engineering, AWS, GCP, Docker, CI/CD, MLOps
+
+Actively seeking full time opportunities as an AI/ML Engineer. I bring a unique blend of industry and research expeirnce with proven track record of buidling and deploying production grade AI and ML systems.
+
+Email: sailesh.dwivedy@colorado.edu
 ---
 
 # 🌟 I'm Seeking Full-Time Opportunities:
