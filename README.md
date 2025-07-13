@@ -17,6 +17,7 @@ Skilled in Python, SQL, PyTorch, Hugging Face, LangChain, LlamaIndex, Transforme
 Actively seeking full time opportunities as an AI/ML Engineer. I bring a unique blend of industry and research expeirnce with proven track record of buidling and deploying production grade AI and ML systems.
 
 Email: sailesh.dwivedy@colorado.edu
+
 ---
 
 # 🌟 I'm Seeking Full-Time Opportunities:
@@ -29,16 +30,23 @@ My goal is to leverage my extensive professional background and hands-on experie
 
 ## 💼 Professional Experience
 
-### **Summer Research Assistant, Image and Video Computing Lab**  
-*University of Colorado Boulder (Nov 2024 - Present)*  
+### **AI/ML Applied Scientist**  
+*NeuroSpring (June 2025 - Present)*
+*Napa, California, United States*
+- Building ML and DL models for detecting abnormal speech using PyTorch, Hugging Face, and Librosa.
+- Designing end-to-end ML pipeline with audio preprocessing, model training, and Azure deployment.
+- Using Python, Git, Streamlit, and Docker to support reproducible workflows and on-device AI readiness.
+
+### **AI/ML Research Assistant, Image and Video Computing Lab**  
+*University of Colorado Boulder (May 2024 - May 2025)*  
 - Conducting research under **Dr. Danna Gurari and PhD Nicholas Cooper**, focusing on leveraging **Knowledge Distillation** to **compress large AI models**  into smaller and more efficient versions, while maintaining performance.  
 
-### **Research Associate**  
+### **NLP Research Associate**  
 *Kalinga Institute of Industrial Technology (Feb 2023 - Jul 2023)*  
 - Researched **imbalance classification techniques** to improve model performance on skewed datasets.  
 
-### **Data Scientist & Team Lead**  
-*HighRadius Technologies (Sep 2020 - Feb 2023) [FinTech]*  
+### **AI/ML Engineer Team Lead**  
+*HighRadius Technologies (Sep 2019 - Feb 2023) [FinTech]*  
 - Designed and deployed **end-to-end data science pipelines and AI solutions** for mutiple fintech products like **cash forecasting, fraud detection, and payment date prediction**.  
 - Built predictive models that optimized **financial operations** for **Fortune 500 companies like Nestle, Kellogs, Kraft Heinz, Clorox, Uber, etc**.  
 
