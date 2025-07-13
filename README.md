@@ -52,8 +52,8 @@ My goal is to leverage my extensive professional background and hands-on experie
   - Leveraged **DeepSeek R1 14B (via Ollama API)** to generate **intelligent, context-aware responses**.  
   - Ensured **email privacy** by defaulting to **promotional emails only**, with the option to customize retrieval settings.  
   - Built an **interactive chat interface** using **Streamlit** for a seamless user experience.  
-  - 🎥 **Demo Video:** [Watch Here](#)  
-  - 🔗 **GitHub Repo:** [AskMyEmail](https://github.com/saileshdwivedy30/Ask-My-Mail)
+  - 🎥 **Demo Video:** [Watch Here](https://www.youtube.com/watch?v=3kpnK6ljzY8)  
+  - 🔗 **GitHub Repo:** [AskMyEmail](https://github.com/saileshdwivedy30/Ask-My-Email)
   - **Tech Stack**: **Python, Streamlit, LangChain, ChromaDB, Gmail API, DeepSeek R1 14B, BeautifulSoup.**  
 
 ☁️ **Multi-Cloud AI-Powered eCommerce Platform**  
