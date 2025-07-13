@@ -43,7 +43,7 @@ My goal is to leverage my extensive professional background and hands-on experie
   - Automated **stock data fetching** using **Yahoo Finance** and **symbol lookup** via **DuckDuckGo Search**.  
   - Built an **interactive UI** with **Streamlit**, enabling users to explore financial metrics dynamically.  
   - 🎥 **Demo Video:** [Watch Here](https://www.youtube.com/watch?v=oYHgGF4P0tQ)  
-  - 🔗 **GitHub Repo:** [StockIntel AI](https://github.com/saileshdwivedy30/stockintel-ai)
+  - 🔗 **GitHub Repo:** [StockIntel AI](https://github.com/saileshdwivedy30/StockIntel-AI-Agent)
   - **Tech Stack**: **Python, Pydantic AI, Streamlit, Yahoo Finance (yfinance), DuckDuckGo Search, OpenAI GPT-4o.**  
 
 📨 **AskMyEmail - DeepSeek AI-Powered Email RAG Chatbot**  
