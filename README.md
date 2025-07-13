@@ -96,8 +96,7 @@ My goal is to leverage my extensive professional background and hands-on experie
 🎵 **Spotify 2023 Streaming Analysis**  
 - Developed an **interactive data visualization platform** to explore **top streamed artists, songs, and industry trends** from 2023.  
 - Analyzed **streaming behavior, song characteristics, playlist impact, and seasonal trends** to uncover patterns in music consumption.  
-- Integrated **real-time filtering and interactive visualizations** for deeper insights into streaming analytics.
-- 🔗 **Live App:** [Spotify 2023 Analysis](https://my-example-project-719255-kngkr5dp-ndjz2ws6la-ue.a.run.app/)  
+- Integrated **real-time filtering and interactive visualizations** for deeper insights into streaming analytics. 
 - 🎥 **Demo Video:** [Watch Here](https://drive.google.com/file/d/13TnESRwxw4Eew5h-zCw-aM1MxVO8Ncld/view?usp=sharing)  
 - 📊 **Dataset:** [Spotify Top Songs 2023 - Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data)
 - **Tech Stack**: **Python, Flask, Pandas, NumPy, Plotly, Seaborn, Preswald, GitHub.**   
@@ -108,10 +107,6 @@ My goal is to leverage my extensive professional background and hands-on experie
   - Utilized **YOLO object detection** to **quantify demand at bus stops and inside buses** for **dynamic route allocation**
   - 🔗 **GitHub Repo:** [Robus-Dynamic Bus Routing System](https://github.com/saileshdwivedy30/Robus-Smart_India_Hackathon)
   - **Tech Stack**: **Python, YOLO, OpenCV, Scikit-Learn, Algorithm**   
-  
-🚦 **Dynamic Traffic Management System**  
-  - Developed an **algorithmic solution for smart traffic management** in urban cities, optimize signal timing.
-  - **Tech Stack**: **Algorithm**
 
 ---
 
