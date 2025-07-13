@@ -72,7 +72,7 @@ My goal is to leverage my extensive professional background and hands-on experie
   - Designed a **custom Kibana dashboard** to provide **real-time log monitoring and insights**.  
   - Enabled **secure user authentication** with **JWT tokens**, ensuring restricted data access.  
   - 🎥 **Demo Video:** [Watch Here](https://www.youtube.com/watch?v=aOD9OG1qHYc)  
-  - 🔗 **GitHub Repo:** [Auto Log Insights](https://github.com/cu-csci-4253-datacenter-fall-2024/finalproject-final-project-team-15)
+  - 🔗 **GitHub Repo:** [Auto Log Insights](https://github.com/saileshdwivedy30/Auto-Log-Insights)
   - **Tech Stack**: **Python, Flask, Elasticsearch, Logstash, Kibana, LLaMA 3-8B, Groq Inference API, Redis, AWS S3.**  
 
 🖼 **ImageSense AI - Image Search Quality Optimization**  
