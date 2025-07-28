@@ -2,7 +2,7 @@
 
 ---
 
-Visit my webpage to find the list of exciting projects I have been working on: - [Link to my website](https://saileshdwivedy30.github.io/)
+Visit my webpage to find the browse of exciting projects I have been working on alternatively you can find them listed below within this page: - [Link to my website](https://saileshdwivedy30.github.io/)
 
 Email: saileshdwivedy0330@gmail.com
 
