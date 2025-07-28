@@ -3,6 +3,7 @@
 ---
 
 Visit my webpage: - [Link to my website](https://saileshdwivedy30.github.io/)
+Email: saileshdwivedy0330@gmail.com
 
 ---
 
@@ -16,7 +17,7 @@ Skilled in Python, SQL, PyTorch, Hugging Face, LangChain, LlamaIndex, Transforme
 
 Actively seeking full time opportunities as an AI/ML Engineer. I bring a unique blend of industry and research expeirnce with proven track record of buidling and deploying production grade AI and ML systems.
 
-Email: sailesh.dwivedy@colorado.edu
+Email: saileshdwivedy0330@gmail.com
 
 ---
 
