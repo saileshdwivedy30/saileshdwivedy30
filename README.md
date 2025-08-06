@@ -2,9 +2,9 @@
 
 ---
 
-Visit my webpage to find the browse of exciting projects I have been working on alternatively you can find them listed below within this page: - [Link to my website](https://saileshdwivedy30.github.io/)
-
-Email: saileshdwivedy0330@gmail.com
+#### Link to my [Website](https://saileshdwivedy30.github.io/)
+#### Link to my [LinkedIn](https://www.linkedin.com/in/saileshdwivedy/)
+#### Email: saileshdwivedy0330@gmail.com
 
 ---
 
