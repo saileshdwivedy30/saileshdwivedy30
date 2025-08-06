@@ -18,7 +18,7 @@ Skilled in Python, SQL, PyTorch, Hugging Face, LangChain, LlamaIndex, Transforme
 
 Actively seeking full time opportunities as an AI/ML Engineer. I bring a unique blend of industry and research expeirnce with proven track record of buidling and deploying production grade AI and ML systems.
 
-Email: saileshdwivedy0330@gmail.com
+Email: sdwivedy30@gmail.com
 
 ---
 
