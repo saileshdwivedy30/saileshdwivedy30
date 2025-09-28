@@ -11,7 +11,7 @@
 AI/ML Engineer with 5 years of experience delivering production ready GenAI, NLP, and machine learning systems for Fortune 500 clients. I specialize in LLM fine-tuning (QLoRA, LoRA, PEFT), Retrieval-Augmented Generation (RAG), AI agents, and multimodal systems. 
 
 - Currently at NeuroSpring, I am building on-device healthcare AI systems to detect speech abnormalities using PyTorch and Hugging Face, with deployment on Azure. 
-- At Highradius, I led ML initiatives in the fintech domain, developing solutions like a GenAI-powered Smart Email Composer, improving fraud risk prediction models, and payment forecasting systems, improving dollar amount recovery by 12% for Fortune 500 clients like Nestle, Uber, Clorox and Kraft Heinz.
+- At Highradius, I led ML initiatives in the fintech domain, improving fraud risk prediction models, and payment forecasting systems, improving dollar amount recovery by 12% for Fortune 500 clients like Hershey's, Red Bull, Danone and Staples.
 - As a Machine Leanring Research Assistant, I developed efficient knowledge distillation techniques for computer vision achieving 80% training efficiency gains(submitted to NeurIPS 2025).
 
 Skilled in Python, SQL, PyTorch, Hugging Face, LangChain, LlamaIndex, Transformers, LLMs (LLaMA, GPT), LoRA, RAG, Agentic AI, Prompt Engineering, AWS, GCP, Docker, CI/CD, MLOps
