@@ -26,6 +26,7 @@ I bring a unique blend of industry and research expeirnce with proven track reco
 - Building ML and DL models for detecting abnormal speech using PyTorch, Hugging Face, and Librosa.
 - Designing end-to-end ML pipeline with audio preprocessing, model training, and Azure deployment.
 - Using Python, Git, Streamlit, and Docker to support reproducible workflows and on-device AI readiness.
+- Developing a Retrieval-Augmented Generation with ingestion, chunking, semantic vector search, reranking pipeline to help medical professionals access clinical guidelines.
 
 ### **Volunteer Research Associate (Dr. Eric Keller)**  
 *University of Colorado Boulder (June 2025 - Present)*  
