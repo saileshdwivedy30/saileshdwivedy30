@@ -1,14 +1,12 @@
 # <h1 align="center"> Hi, I'm Sailesh Dwivedy!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1> 
 
 ---
-
-#### Link to my [Website](https://saileshdwivedy30.github.io/)
 #### Link to my [LinkedIn](https://www.linkedin.com/in/saileshdwivedy/)
+#### Link to my [Website](https://saileshdwivedy30.github.io/)
 #### Email: sdwivedy30@gmail.com
-
 ---
 
-AI/ML Engineer with 5 years of experience delivering production ready GenAI, NLP, and machine learning systems for Fortune 500 clients. I specialize in LLM fine-tuning (QLoRA, LoRA, PEFT), Retrieval-Augmented Generation (RAG), AI agents, and multimodal systems. 
+AI/ML Engineer with 5 years of experience with Data Science, GenAI, NLP, and ML/AI systems across Finance, Healthcare and Academic Research. I specialize in LLM fine-tuning (QLoRA, LoRA, PEFT), Retrieval-Augmented Generation (RAG), AI agents, and multimodal systems. 
 
 - Currently at NeuroSpring, I am building on-device healthcare AI systems to detect speech abnormalities using PyTorch and Hugging Face, with deployment on Azure. 
 - At Highradius, I led ML initiatives in the fintech domain, improving fraud risk prediction models, and payment forecasting systems, improving dollar amount recovery by 12% for Fortune 500 clients like Hershey's, Red Bull, Danone and Staples.
@@ -17,14 +15,6 @@ AI/ML Engineer with 5 years of experience delivering production ready GenAI, NLP
 Skilled in Python, SQL, PyTorch, Hugging Face, LangChain, LlamaIndex, Transformers, LLMs (LLaMA, GPT), LoRA, RAG, Agentic AI, Prompt Engineering, AWS, GCP, Docker, CI/CD, MLOps
 
 Actively seeking full time opportunities as an AI/ML Engineer. I bring a unique blend of industry and research expeirnce with proven track record of buidling and deploying production grade AI and ML systems.
-
----
-
-# 🌟 I'm Seeking Full-Time Opportunities:
-
-I am actively seeking full-time roles in Data Science, Data Analytics, Machine Learning, Deep Learning, Computer Vision, and Generative AI, starting May 2025. 
-
-My goal is to leverage my extensive professional background and hands-on experience to contribute to innovative and impactful projects in these fields.
 
 ---
 
@@ -37,6 +27,11 @@ My goal is to leverage my extensive professional background and hands-on experie
 - Designing end-to-end ML pipeline with audio preprocessing, model training, and Azure deployment.
 - Using Python, Git, Streamlit, and Docker to support reproducible workflows and on-device AI readiness.
 
+### **Volunteer Research Associate (Dr. Eric Keller)**  
+*University of Colorado Boulder (June 2025 - Present)*  
+- Conducting research under **Dr. Eric Keller**, researching secure and efficient LLM serving systems with a focus on tenant-safe, LoRA-aware semantic KV cache reuse
+for multi-GPU deployments.
+
 ### **AI/ML Research Assistant, Image and Video Computing Lab**  
 *University of Colorado Boulder (May 2024 - May 2025)*  
 - Conducting research under **Dr. Danna Gurari and PhD Nicholas Cooper**, focusing on leveraging **Knowledge Distillation** to **compress large AI models**  into smaller and more efficient versions, while maintaining performance.  
@@ -47,7 +42,7 @@ My goal is to leverage my extensive professional background and hands-on experie
 
 ### **AI/ML Engineer Team Lead**  
 *HighRadius Technologies (Sep 2019 - Feb 2023) [FinTech]*  
-- Designed and deployed **end-to-end data science pipelines and AI solutions** for mutiple fintech products like **cash forecasting, fraud detection, and payment date prediction**.  
+- Designed and deployed **end-to-end data science pipelines and AI solutions** for mutiple fintech products like **cash forecasting, fraud detection, and payment date prediction**. 
 - Built predictive models that optimized **financial operations** for **Fortune 500 companies like Nestle, Kellogs, Kraft Heinz, Clorox, Uber, etc**.  
 
 ---
