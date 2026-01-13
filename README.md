@@ -11,10 +11,11 @@ AI/ML Engineer with 5 years of experience with Data Science, GenAI, NLP, and ML/
 - Currently at NeuroSpring, I am building on-device healthcare AI systems to detect speech abnormalities using PyTorch and Hugging Face, with deployment on Azure. 
 - At Highradius, I led ML initiatives in the fintech domain, improving fraud risk prediction models, and payment forecasting systems, improving dollar amount recovery by 12% for Fortune 500 clients like Hershey's, Red Bull, Danone and Staples.
 - As a Machine Leanring Research Assistant, I developed efficient knowledge distillation techniques for computer vision achieving 80% training efficiency gains(submitted to NeurIPS 2025).
+- Published research “Logit-Based Losses Limit the Effectiveness of Feature Knowledge Distillation”, NeurIPSWorkshop 2025 [Link to paper](https://arxiv.org/abs/2511.14981)
 
 Skilled in Python, SQL, PyTorch, Hugging Face, LangChain, LlamaIndex, Transformers, LLMs (LLaMA, GPT), LoRA, RAG, Agentic AI, Prompt Engineering, AWS, GCP, Docker, CI/CD, MLOps
 
-Actively seeking full time opportunities as an AI/ML Engineer. I bring a unique blend of industry and research expeirnce with proven track record of buidling and deploying production grade AI and ML systems.
+I bring a unique blend of industry and research expeirnce with proven track record of buidling and deploying production grade AI and ML systems.
 
 ---
 
@@ -34,7 +35,7 @@ for multi-GPU deployments.
 
 ### **AI/ML Research Assistant, Image and Video Computing Lab**  
 *University of Colorado Boulder (May 2024 - May 2025)*  
-- Conducting research under **Dr. Danna Gurari and PhD Nicholas Cooper**, focusing on leveraging **Knowledge Distillation** to **compress large AI models**  into smaller and more efficient versions, while maintaining performance.  
+- Co-authored NeurIPS Workshop 2025 paper with **Dr. Danna Gurari and PhD Nicholas Cooper**, focusing on leveraging **Knowledge Distillation** to **compress large AI models**  into smaller and more efficient versions, while maintaining performance.  
 
 ### **NLP Research Associate**  
 *Kalinga Institute of Industrial Technology (Feb 2023 - Jul 2023)*  
