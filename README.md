@@ -19,7 +19,7 @@ I bring a unique blend of industry and research expeirnce with proven track reco
 
 ## 💼 Professional Experience
 
-### **AI/ML Applied Scientist**  
+### **AI/ML Engineer**  
 *NeuroSpring (June 2025 - Present)*
 *Napa, California, United States*
 - Building ML and DL models for detecting abnormal speech using PyTorch, Hugging Face, and Librosa.
@@ -27,12 +27,12 @@ I bring a unique blend of industry and research expeirnce with proven track reco
 - Using Python, Git, Streamlit, and Docker to support reproducible workflows and on-device AI readiness.
 - Developing a Retrieval-Augmented Generation with ingestion, chunking, semantic vector search, reranking pipeline to help medical professionals access clinical guidelines.
 
-### **Volunteer Research Associate (Dr. Eric Keller)**  
-*University of Colorado Boulder (June 2025 - Present)*  
+### **Graduate AI/ML Research Associate (Dr. Eric Keller)**  
+*University of Colorado Boulder (June 2025)*  
 - Conducting research under **Dr. Eric Keller**, researching secure and efficient LLM serving systems with a focus on tenant-safe, LoRA-aware semantic KV cache reuse
 for multi-GPU deployments.
 
-### **AI/ML Research Assistant, Image and Video Computing Lab**  
+### **Graduate AI/ML Research Associate, Image and Video Computing Lab**  
 *University of Colorado Boulder (May 2024 - May 2025)*  
 - Co-authored NeurIPS Workshop 2025 paper with **Dr. Danna Gurari and PhD Nicholas Cooper**, focusing on leveraging **Knowledge Distillation** to **compress large AI models**  into smaller and more efficient versions, while maintaining performance.  
 
