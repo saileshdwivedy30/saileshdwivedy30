@@ -7,7 +7,7 @@
 
 AI/ML Engineer with 5 years of experience with Data Science, GenAI, NLP, and ML/AI systems across Finance, Healthcare and Academic Research. I specialize in LLM fine-tuning (QLoRA, LoRA, PEFT), Retrieval-Augmented Generation (RAG), AI agents, and multimodal systems. 
 
-- Currently at NeuroSpring, I am building on-device healthcare AI systems to detect speech abnormalities using PyTorch and Hugging Face, with deployment on Azure. 
+- Currently at NeuroSpring, I am building on-device healthcare AI systems (DL, LLM Finetuning, RAG and Agentic AI) to detect speech abnormalities and facilitate healthcare professionals using PyTorch and Hugging Face, with deployment on GCP. 
 - At Highradius, I led ML initiatives in the fintech domain, improving fraud risk prediction models, and payment forecasting systems, improving dollar amount recovery by 12% for Fortune 500 clients like Hershey's, Red Bull, Danone and Staples.
 - As an AI/ML Research Assistant, co-authored NeurIPS Workshop 2025 paper “Logit-Based Losses Limit the Effectiveness of Feature Knowledge Distillation” [Link to paper](https://arxiv.org/abs/2511.14981) on knowledge distillation techniques for computer vision achieving 80% training efficiency gains.
 
