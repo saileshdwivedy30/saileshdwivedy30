@@ -2,7 +2,6 @@
 
 ---
 #### Link to my [LinkedIn](https://www.linkedin.com/in/saileshdwivedy/)
-#### Link to my [Website](https://saileshdwivedy30.github.io/)
 #### Email: sdwivedy30@gmail.com
 ---
 
